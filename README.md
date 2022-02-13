@@ -1,7 +1,7 @@
 ### Hi there 👋
-<b>I'm working on </b>[Laravel User Activity](https://github.com/haruncpi/laravel-user-activity)
+<b>I'm working on </b>[Laravel Query Log](https://github.com/haruncpi/laravel-query-log)
 
-<img src="https://badgen.net/badge/licence/CC BY 4.0/23BCCB" /> <img src="https://badgen.net/github/stars/haruncpi/laravel-user-activity"/> <img src="https://badgen.net/packagist/dt/haruncpi/laravel-user-activity"/>
+<img src="https://badgen.net/badge/licence/CC BY 4.0/23BCCB" /> <img src="https://badgen.net/github/stars/haruncpi/laravel-query-log"/> <img src="https://badgen.net/packagist/dt/haruncpi/laravel-query-log"/>
 
 <b>Popular Work</b>
 
