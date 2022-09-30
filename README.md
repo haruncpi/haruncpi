@@ -14,6 +14,14 @@
 | [Laravel H](https://github.com/haruncpi/laravel-h)  | <img src="https://badgen.net/github/stars/haruncpi/laravel-h"/> <img src="https://badgen.net/packagist/dt/haruncpi/laravel-h"/>  |
 | [DB Seeder](https://github.com/haruncpi/db-seeder)  | <img src="https://badgen.net/github/stars/haruncpi/db-seeder"/>  |
 
+<b>jQuery Plugin</b>
+|     |     |
+| --- | --- |
+| [Simple Context Menu](https://github.com/haruncpi/simple-context-menu) |A simple jQuery plugin for showing custom context menu|
+| [hBarChart](https://github.com/haruncpi/hBarChart) |Lightweight jQuery plugin for bar chart|
+| [setCursor](https://github.com/haruncpi/setCursor) |A tiny jQuery plugin to set cursor where you want|
+
+
 Since my web development carrier, I have been working on several Open-source laravel packages for the Laravel community and other work for the dev community.
 
 🌱 Support me to work for the community more and more. I'll really appreciate your any amount of sponsorship.
