@@ -4,10 +4,10 @@
 | --- | --- | 
 | Laravel Log Reader | <img src="https://badgen.net/packagist/dt/haruncpi/laravel-log-reader"/> [<img src="https://badgen.net/badge/icon/Link?icon=github&label"/>](https://github.com/haruncpi/laravel-log-reader) |
 | Laravel ID generator |  <img src="https://badgen.net/packagist/dt/haruncpi/laravel-id-generator"/> [<img src="https://badgen.net/badge/icon/Link?icon=github&label"/>](https://github.com/haruncpi/laravel-id-generator)  |
-| [Laravel Simple Filemanager](https://github.com/haruncpi/laravel-simple-filemanager)  | <img src="https://badgen.net/packagist/dt/haruncpi/laravel-simple-filemanager"/>  |
-| [Laravel Query Log](https://github.com/haruncpi/laravel-query-log)  | <img src="https://badgen.net/packagist/dt/haruncpi/laravel-query-log"/>  |
-| [Laravel H](https://github.com/haruncpi/laravel-h)  | <img src="https://badgen.net/packagist/dt/haruncpi/laravel-h"/>  |
-| [Laravel Option Framework](https://github.com/haruncpi/laravel-option-framework)  | <img src="https://badgen.net/packagist/dt/haruncpi/laravel-option-framework"/>  |
+| Laravel Simple Filemanager | <img src="https://badgen.net/packagist/dt/haruncpi/laravel-simple-filemanager"/> [<img src="https://badgen.net/badge/icon/Link?icon=github&label"/>](https://github.com/haruncpi/laravel-simple-filemanager)  |
+| Laravel Query Log  | <img src="https://badgen.net/packagist/dt/haruncpi/laravel-query-log"/>  [<img src="https://badgen.net/badge/icon/Link?icon=github&label"/>](https://github.com/haruncpi/laravel-query-log) |
+| Laravel H  | <img src="https://badgen.net/packagist/dt/haruncpi/laravel-h"/> [<img src="https://badgen.net/badge/icon/Link?icon=github&label"/>](https://github.com/haruncpi/laravel-h) |
+| Laravel Option Framework  | <img src="https://badgen.net/packagist/dt/haruncpi/laravel-option-framework"/> [<img src="https://badgen.net/badge/icon/Link?icon=github&label"/>](https://github.com/haruncpi/laravel-option-framework) |
 
 
 <b>jQuery Plugin</b>
